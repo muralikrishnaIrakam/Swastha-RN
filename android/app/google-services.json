@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626029098678",
+    "project_id": "myswastha-abb11",
+    "storage_bucket": "myswastha-abb11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626029098678:android:9d3ce1c7a896b71a851817",
+        "android_client_info": {
+          "package_name": "com.swasta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRJYhtQ3UPMScBRrraPklTHalJePgQx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
